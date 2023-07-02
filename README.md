@@ -11,3 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=leeh-nix&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=leeh-nix&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leeh-nix&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=leeh-nix&icon=0&color=10)](https://visitcount.itsvg.in)
