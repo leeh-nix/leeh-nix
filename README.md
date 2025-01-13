@@ -1,21 +1,14 @@
 # Hi 👋🏻, I am Nikheel Kumar Sonkar
-<div>
-  
-</div>
-<div style="display: flex;justify-content: center">
+
 <!-- <img src="https://media1.tenor.com/m/iF6NWcYilPsAAAAC/cherry-blossom.gif" width="100%"> -->
-<img src="https://64.media.tumblr.com/6da5ad3151983d9d5adeb2677a842558/20c099951e85e9ef-b6/s540x810/494ba1c660c192adea17b1aee00582eaac6bc41f.gifv">
+<!-- <img src="https://64.media.tumblr.com/6da5ad3151983d9d5adeb2677a842558/20c099951e85e9ef-b6/s540x810/494ba1c660c192adea17b1aee00582eaac6bc41f.gifv"> -->
+<div align="center">
+  <img src="https://media1.tenor.com/m/2fDayH2MWOoAAAAC/ayo.gif" />
 </div>
-  <p style="text-align: justify;padding: 10px;">
-    I am a Python developer with three years of experience building scalable projects. I have a strong understanding of machine learning concepts and hands-on experience implementing ML models and algorithms to solve real-world problems. [pdfPulse](https://pdfpulse.streamlit.app/) is my latest project, based on Retrieval Augmented Generation with Gemini.
+  <p align="left">
+  I am a Python developer with three years of experience building scalable projects. I have a strong understanding of machine learning concepts and hands-on experience implementing ML models and algorithms to solve real-world problems. <a href="https://pdfpulse.streamlit.app/">pdfPulse</a> is my latest project, based on Retrieval Augmented Generation with Gemini.
   </p>
-<!--   <img src="https://media1.tenor.com/m/dfDU02ysJfwAAAAC/blue-anime.gif"> -->
-<!-- <img src="https://media1.tenor.com/m/YCc_7AEWPhwAAAAd/nature-background-anime-nature-aesthetic.gif" > -->
-<!-- <img src="https://media1.tenor.com/m/WCPBOWmj2LwAAAAC/bieserka-aesthetic.gif"> -->
-<!-- <img src="https://media1.tenor.com/m/pfse31BHBoYAAAAC/kikis-delivery-service-ghibli.gif" width="100%"> -->
-
-
-
+  
 ## 💫 About Me:
 🎓 I am pursuing Computer Science and Engineering and will graduate in 2025
 
@@ -27,8 +20,7 @@
 
 💬 Ask me about Machine Learning concepts and Python
 
-📧 Reach out to me at nkso1419@gmail.com
-
+📧 Reach out to me at nkso1419@gmail.com and check out my [resumé](https://flowcv.com/resume/mr1mu2ffs7)
 
 
 ## 💻 Skills:
